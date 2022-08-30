@@ -1,3 +1,3 @@
 # LuThu 
 
-LuThu is a programming language specifically for making bots with Discord.
+LuThu is a hassle free plugin for Minecraft java edition. The plugin will be available from Java version 1.8+ and won't go any earlier.
